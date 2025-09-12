@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Erick here</h1>
+<h1 align="center">Hi there 👋, Erick here</h1>
 <h3 align="center">A physicist made in <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Ecuador" width="25" height="25"/> </a>  :ecuador:</h3>
 
 
