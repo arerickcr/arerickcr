@@ -18,12 +18,10 @@ I am interested in quantitative research and high-performance scientific computi
 
 ## Research background
 
-My coauthored research includes precision studies of the massive Schwinger model, Yang–Lee quantum criticality, and the Sachdev–Ye–Kitaev model. Each project links its computational examples to the relevant methods and literature; the public examples have a narrower scope than the full research studies.
-
-I hold bachelor's degrees in mathematics and physics from Universidad San Francisco de Quito and completed the ICTP Postgraduate Diploma Programme, where I received the 2021 Best Performing Diploma Student Award in the HECAP section.
+My research includes precision studies of the massive Schwinger model, Yang–Lee quantum criticality, and the Sachdev–Ye–Kitaev model. Each project links its computational examples to the relevant methods and literature; the public examples have a narrower scope than the full research studies.
 
 **Methods:** numerical linear algebra, exact diagonalization, matrix product states, DMRG, random matrix theory, and statistical data analysis.
 
 **Public code:** Julia, ITensors.jl, Python, NumPy, SciPy, pandas, and Matplotlib. [ML Foundations](https://github.com/arerickcr/ML-Foundations) contains supporting coursework and learning exercises.
 
-Originally from Ecuador; now based in Pittsburgh. I enjoy teaching and making technical ideas accessible across disciplines.
+Originally from Ecuador -EC-
