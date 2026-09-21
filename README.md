@@ -2,7 +2,7 @@
 
 **Physics PhD student at Carnegie Mellon University · Numerical methods and scientific computing**
 
-I study quantum critical phenomena with Grigory Tarnopolsky, connecting theoretical models with numerical experiments. My work uses tensor networks, spectral methods, and finite-size analysis; my public computational projects use Julia and Python.
+My research focuses on the study of quantum critical phenomena, connecting theoretical models with numerical experiments. My work uses tensor networks, spectral methods, and finite-size analysis. The public computational projects use Julia and Python.
 
 I am interested in quantitative research and high-performance scientific computing, particularly problems that require mathematical modeling, careful validation, and efficient numerical methods.
 
