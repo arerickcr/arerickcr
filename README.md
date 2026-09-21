@@ -1,10 +1,29 @@
-<h1 align="center">Hi there 👋, Erick here</h1>
-<h3 align="center">A physicist made in <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Ecuador" width="25" height="25"/> </a>  :ecuador:</h3>
+# Erick Arguello Cruz
 
+**Physics PhD student at Carnegie Mellon University · Numerical methods and scientific computing**
 
+I study quantum critical phenomena with Grigory Tarnopolsky, connecting theoretical models with numerical experiments. My work uses tensor networks, spectral methods, and finite-size analysis; my public computational projects use Julia and Python.
 
-<p align="left">
-</p>
+I am interested in quantitative research and high-performance scientific computing, particularly problems that require mathematical modeling, careful validation, and efficient numerical methods.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="julia" width="40" height="40"/> </a> <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="mathematica" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+[Website](https://earguelloc.com/) · [CV](https://earguelloc.com/pages/cv.html) · [Publications](https://earguelloc.com/pages/publications.html) · [LinkedIn](https://www.linkedin.com/in/erick-arguello-c/) · [Email](mailto:earguell@andrew.cmu.edu)
+
+## Selected computational work
+
+| Project | Research question | Explore |
+| --- | --- | --- |
+| **Precision lattice calculations** | How can tensor-network simulations locate a quantum critical point reliably? Related coauthored work reports systems up to 3,000 qubits and agreement across four criticality criteria. | [Schwinger model: code and reproduction](https://github.com/arerickcr/Schwinger-Model) · [Paper](https://arxiv.org/abs/2412.01902) |
+| **Random matrices and covariance structure** | What distinguishes collective spectral modes from a finite-sample noise benchmark? Includes an offline numerical example and an exploratory financial-correlation study. | [Random matrices: results and notebooks](https://github.com/arerickcr/Random-Matrices) |
+| **Tensor-network model studies** | How do low-energy spectra and symmetries change across Ising, Hubbard, and Yang–Lee models? | [Julia / ITensors examples](https://github.com/arerickcr/Tensor-Networks) |
+
+## Research background
+
+My coauthored research includes precision studies of the massive Schwinger model, Yang–Lee quantum criticality, and the Sachdev–Ye–Kitaev model. Each project links its computational examples to the relevant methods and literature; the public examples have a narrower scope than the full research studies.
+
+I hold bachelor's degrees in mathematics and physics from Universidad San Francisco de Quito and completed the ICTP Postgraduate Diploma Programme, where I received the 2021 Best Performing Diploma Student Award in the HECAP section.
+
+**Methods:** numerical linear algebra, exact diagonalization, matrix product states, DMRG, random matrix theory, and statistical data analysis.
+
+**Public code:** Julia, ITensors.jl, Python, NumPy, SciPy, pandas, and Matplotlib. [ML Foundations](https://github.com/arerickcr/ML-Foundations) contains supporting coursework and learning exercises.
+
+Originally from Ecuador; now based in Pittsburgh. I enjoy teaching and making technical ideas accessible across disciplines.
